@@ -18,7 +18,7 @@
 
 <br>
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -40,7 +40,7 @@
 
 
 
-## 🔐 Ciberseguridad & Laboratorios
+##  Ciberseguridad & Laboratorios
 <p align="center">
   <a href="https://app.hackthebox.com/users/2066481" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/2066481" width="250" alt="Swayaer's Hack The Box Badge">
