@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">𝐻𝑜𝑙𝑎, 𝑠𝑜𝑦 𝑆𝑤𝑎𝑦</a> 😁</h1>
-  <img src="https://github.com/Swayaer/Swayaer/blob/main/descarga%20(1).gif?raw=true" width="100%" alt="Sway Banner">
+  <img src="github.com/Swayaer/Swayaer/blob/main/descarga.jpg?raw=true" width="100%" alt="Sway Banner">
   <p align="center">
       𝐸𝑠𝑡𝑢𝑑𝑖𝑎𝑛𝑡𝑒 𝑑𝑒 5𝑡𝑜 𝑆𝑒𝑚𝑒𝑠𝑡𝑟𝑒 𝑑𝑒 𝐼𝑛𝑔𝑒𝑛𝑖𝑒𝑟𝑖𝑎 𝑒𝑛 𝑆𝑖𝑠𝑡𝑒𝑚𝑎𝑠 | 𝐺𝑡
   </p>
@@ -41,7 +41,7 @@
 
 
 ##  Ciberseguridad & Laboratorios
-<p align="center">
+<p align="left">
   <a href="https://app.hackthebox.com/users/2066481" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/2066481" width="250" alt="Swayaer's Hack The Box Badge">
   </a>
