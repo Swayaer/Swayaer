@@ -33,3 +33,16 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swayaer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swayaer&layout=compact&langs_count=8&theme=tokyonight&hide_langs_below=0&cache_seconds=1800"/>
 </p>
+
+
+
+
+
+## 🔐 Ciberseguridad & Laboratorios
+<p align="center">
+  <a href="https://app.hackthebox.com/users/2066481" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/2066481" width="250" alt="Swayaer's Hack The Box Badge">
+  </a>
+</p>
+
+
