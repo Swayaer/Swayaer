@@ -25,13 +25,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swayaer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swayaer&layout=compact&langs_count=8&theme=tokyonight&hide_langs_below=0&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swayaer&layout=compact&langs_count=8&theme=tokyonight&hide_langs_below=0&hide=nothing"/>
 </p>
 
 
